@@ -95,10 +95,6 @@ The system provides comprehensive analysis including:
 - **Research Studies**: Collect emotion data for behavioral analysis
 - **Customer Experience**: Analyze customer reactions to products/services
 
-
-## 🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ---
 
 ## 🙌 Author
