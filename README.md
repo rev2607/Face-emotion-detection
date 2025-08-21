@@ -108,7 +108,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - 🔗 LinkedIn: [rev2607](https://linkedin.com/in/rev2607)
 - 🌐 Portfolio: [www.revanth.cloud](https://www.revanth.cloud)
 
-<div align="center">
-  <p>⭐ Star this repository if you find it helpful!</p>
-  <p>Made with ❤️ by Revanth Guthula</p>
-</div>
