@@ -27,7 +27,7 @@ This project is a sophisticated **Face Emotion Detection and Engagement Analyzer
 - ✅ **Percentage Metrics** - Provides detailed engagement statistics and overall status
 - ✅ **Professional Output** - Generates clean, annotated images with emotion labels
 
-## 🖼️ Demo
+## 🖼️ How it works
 The system processes input images and outputs annotated versions with:
 - Green bounding boxes around detected faces
 - Emotion labels with confidence scores above each face
@@ -95,18 +95,9 @@ The system provides comprehensive analysis including:
 - **Research Studies**: Collect emotion data for behavioral analysis
 - **Customer Experience**: Analyze customer reactions to products/services
 
-## 🚀 Future Enhancements
-- Real-time video processing capabilities
-- Web application interface
-- API endpoints for integration
-- Advanced analytics dashboard
-- Multi-language support
 
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
@@ -116,9 +107,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - 📧 Email: [revanthg2607@gmail.com](mailto:revanthg2607@gmail.com)
 - 🔗 LinkedIn: [rev2607](https://linkedin.com/in/rev2607)
 - 🌐 Portfolio: [www.revanth.cloud](https://www.revanth.cloud)
-- 🐙 GitHub: [@rev2607](https://github.com/rev2607)
-
----
 
 <div align="center">
   <p>⭐ Star this repository if you find it helpful!</p>
