@@ -1,10 +1,10 @@
-# 🚀 Face Emotion Detection & Engagement Analyzer
+# 🚀 Face Emotion Detection
 > An intelligent computer vision system that automatically detects human emotions from images and calculates audience engagement levels for presentations, meetings, and events.
 
 ![Tech Stack](https://img.shields.io/badge/Tech-Python|OpenCV|FER|MTCNN-blue)
 
 ## 📌 Overview
-This project is a sophisticated **Face Emotion Detection and Engagement Analyzer** that leverages advanced computer vision and machine learning techniques to:
+This project is a sophisticated **Face Emotion Detection** that leverages advanced computer vision and machine learning techniques to:
 
 - **Automatically detect faces** in images using MTCNN (Multi-task Cascaded Convolutional Networks)
 - **Analyze facial expressions** to identify 7 primary emotions (happy, sad, angry, fear, disgust, surprise, neutral)
